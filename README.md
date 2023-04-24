@@ -1,1 +1,2 @@
 # LPP-Lottery-Problem
+We propose a heuristic algorithm,named the Lotto–Meta heuristic,to solve small instances of the lottery problem, using its set covering formulation. The algorithm uses a randomized method, allotting a priority to each column to be included in the solution. A neighborhood search strategy is fused with the algorithm to enhance the search and to balance the exploration and exploitation procedures. Computational results show that our method outperforms the best known solutions for a number of hard instances.
